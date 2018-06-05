@@ -17,3 +17,4 @@ Account test: jackie/jackie123 john/john123
 3. Doc:
     - https://github.com/legalthings/sso/wiki
     - https://en.wikipedia.org/wiki/Single_sign-on 
+    - https://en.wikipedia.org/wiki/Security_Assertion_Markup_Language
