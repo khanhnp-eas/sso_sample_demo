@@ -15,9 +15,9 @@ Terminal 2 - Sevice 2 :  export SSO_SERVER=http://localhost:9000 SSO_BROKER_ID=G
 
 Terminal 2 - Sevice 3 :  export SSO_SERVER=http://localhost:9000 SSO_BROKER_ID=Julias SSO_BROKER_SECRET=ceda63kmhp; php -S localhost:9003 -t examples/ajax-broker/
 
-Connect Link:
+Link:
 http://localhost:9001
 http://localhost:9002 
 http://localhost:9003
 
-Account test: jackie/jackie123 john/john123
+Account Test: jackie/jackie123 john/john123
